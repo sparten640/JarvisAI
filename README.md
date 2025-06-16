@@ -46,7 +46,7 @@ JARVIS is built with a modular, agentic architecture that enables flexible, cont
 
    ```bash
    git clone https://github.com/sparten640/JarvisAI
-   cd Project_Jarvis
+   cd JarvisAI
    ```
 
 2. **Install Python dependencies**
