@@ -45,7 +45,7 @@ JARVIS is built with a modular, agentic architecture that enables flexible, cont
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sparten640/Project_Jarvis.git
+   git clone https://github.com/sparten640/JarvisAI
    cd Project_Jarvis
    ```
 
